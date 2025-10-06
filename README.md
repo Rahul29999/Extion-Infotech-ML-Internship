@@ -2,7 +2,7 @@
   <img src="https://github.com/Rahul29999/Extion-Infotech-ML-Internship/raw/main/reports/extion_logo.jpeg" alt="Extion Infotech Logo" width="200"/>
 </p>
 
-<h1 align="center">🤖 Extion Infotech — Machine Learning Internship</h1>
+<h1 align="center">Extion Infotech — Machine Learning Internship</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python"/>
@@ -103,9 +103,6 @@ A **bar chart** shows the overall sentiment distribution across all headlines.
 * [kumarsharmarahul01@gmail.com](mailto:kumarsharmarahul01@gmail.com)
 * Bachelor of Technology, Mining Engineering
 * IIT (ISM) Dhanbad.
-  
-```
-::contentReference[oaicite:0]{index=0}
-```
+
 
 
