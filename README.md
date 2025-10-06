@@ -12,14 +12,12 @@
 
 ## 🧠 Project Title — Sentiment Analysis on Financial News  
 
-This project was developed during my **Machine Learning Internship** at **Extion Infotech** (June – August 2024).  
+This project was developed during my **Machine Learning Internship** at **Extion Infotech** ( February – May 2025).  
 It uses **FinBERT**, a transformer-based model trained for financial sentiment analysis, to classify news headlines into **Positive**, **Negative**, or **Neutral** sentiments.
 
 📄 **Project Report:**  
 [`reports/Sentiment_Analysis_Financial_News_Report_with_Image.pdf`](reports/Sentiment_Analysis_Financial_News_Report_with_Image.pdf)
 
-🎓 **Certificate:**  
-[`reports/_CERTIFICATE OF INTERNSHIP (5).pdf`](reports/_CERTIFICATE%20OF%20INTERNSHIP%20(5).pdf)
 
 ---
 
@@ -104,3 +102,4 @@ A **bar chart** shows the overall sentiment distribution across all headlines.
 ```
 ::contentReference[oaicite:0]{index=0}
 ```
+
