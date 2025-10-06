@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rahul29999/Extion-Infotech-ML-Internship/raw/main/reports/extion_logo.jpeg" alt="Extion Infotech Logo" width="120"/>
+  <img src="https://github.com/Rahul29999/Extion-Infotech-ML-Internship/raw/main/reports/extion_logo.jpeg" alt="Extion Infotech Logo" width="150"/>
 </p>
 
 <h1 align="center">Extion Infotech — Machine Learning Internship</h1>
@@ -91,7 +91,7 @@ A **bar chart** shows the overall sentiment distribution across all headlines.
 
 * **Company:** Extion Infotech
 * **Role:** Machine Learning Intern
-* **Duration:** June – August 2024
+* **Duration:** February – May 2025
 * **Key Skills:** Transformer Models, FinBERT, NLP, Data Visualization, Python Programming
 
 ---
@@ -103,6 +103,7 @@ A **bar chart** shows the overall sentiment distribution across all headlines.
 * [kumarsharmarahul01@gmail.com](mailto:kumarsharmarahul01@gmail.com)
 * Bachelor of Technology, Mining Engineering
 * IIT (ISM) Dhanbad.
+
 
 
 
