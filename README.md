@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Rahul29999/Extion-Infotech-ML-Internship/raw/main/reports/extion_logo.jpeg" alt="Extion Infotech Logo" width="150"/>
-</p>
-
-<h1 align="center">Extion Infotech — Machine Learning Internship</h1>
+<h1 align="center">
+  <img src="https://github.com/Rahul29999/Extion-Infotech-ML-Internship/raw/main/extion_logo.jpeg" alt="Extion Infotech Logo" width="160"/><br>
+  Extion Infotech — Machine Learning Internship
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python"/>
